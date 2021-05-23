@@ -38,11 +38,6 @@
   padding: 10px;
 }
 
-.channel-thumbnail {
-  max-height:30px;
-  max-width:100%;
-}
-
 .video-thumbnail {
   width: 80%;
 }
