@@ -1,7 +1,7 @@
 package grpcout
 
 import (
-	cpb "github.com/YujiYabe/goMediaServer/backend/commonpb"
+	cpb "github.com/YujiYabe/goMediaServerDemo/backend/commonpb"
 
 	"device/internal/2_adapter/service"
 	"device/pkg/shared"

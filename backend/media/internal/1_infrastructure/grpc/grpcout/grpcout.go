@@ -4,7 +4,7 @@ import (
 	"media/internal/2_adapter/service"
 	"media/pkg/shared"
 
-	cpb "github.com/YujiYabe/goMediaServer/backend/commonpb"
+	cpb "github.com/YujiYabe/goMediaServerDemo/backend/commonpb"
 )
 
 var myErr *shared.MyErr
